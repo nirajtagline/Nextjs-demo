@@ -1,0 +1,7 @@
+.postParent {
+    padding: 20px;
+    border-bottom: 1px solid rgb(34, 140, 245);
+}
+.postParent li {
+ list-style: button;
+}
